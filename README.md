@@ -1,6 +1,6 @@
 # Exploratory Data Analysis and Modeling
 
-Exploratory Data Analysis and Modeling meal orders for an undisclosed company.
+Exploratory Data Analysis and Modeling meal orders
 
 Packages used: NumPy, Pandas, Matplotlib
 
