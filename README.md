@@ -1,3 +1,3 @@
-# Exploratory Data Analysis and Modeling order predictions 
+# Exploratory Data Analysis and Modeling
 
-EDA done for an undisclosed company.
+Exploratory Data Analysis and Modeling meal order predictions for an undisclosed company.
