@@ -1,4 +1,4 @@
-# Exploratory Data Analysis and Modeling
+# Meal_Prediction_Analysis
 
 Exploratory Analysis and Modeling meal orders
 
